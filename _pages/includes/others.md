@@ -1,7 +1,7 @@
 
 # 💼 Projects
 - *2020.01 - 2021.05*， [**Chuoyue**](https://github.com/fuyunwang/video_surveillance2021)，**独立完成**企业级通用PAAS平台基架。基于SpringCloud Hoxton + Spring Cloud Alibaba构建微服务架构,基于TypeScript + Vue3.0构建前端。构建ELK+Skywalking APM+Skywalking APM一体化监控平台，基于Jenkins + Docker + Kubernetes实现持续集成和持续部署
-- *2016.02 - 2017.02*， **智慧山师\|\*\*教育应用**，学校科研团队项目，负责Android APP端研发。
+- *2016.02 - 2017.02*， **智慧山师\|教育应用**，学校科研团队项目，负责Android APP端研发。
 
 
 

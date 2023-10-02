@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王福运"
+title                    : "Fuyunwang(王福运)"
 description              : "目前于南京理工大学PCALAB实验室VGG课题组攻读博士学位"
 repository               : "fuyunwang/fuyunwang"
 google_scholar_stats_use_cdn : true
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王福运"
+  name             : "Fuyunwang(王福运)"
   avatar           : "images/gopher.jpg"
-  bio              : # "IIE"
+  bio              : "https://juejin.cn/post/7223374346094329911"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "fuyunwang2021@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 

@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🤖 Session-Based Recommendation
+## Session-Based Recommendation
 
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/Towards Faithful Dialogs via Focus Learning.png' alt="sym" width="100%"></div></div>)

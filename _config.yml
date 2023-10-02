@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fuyunwang(王福运)"
   avatar           : "images/gopher.jpg"
-  bio              : "https://juejin.cn/post/7223374346094329911"
+  bio              :
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "fuyunwang2021@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : 
+  uri              : "https://juejin.cn/post/7223374346094329911"
   bitbucket        :
   codepen          :
   dribbble         :

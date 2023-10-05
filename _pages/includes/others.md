@@ -1,6 +1,7 @@
 
 # 💼 Projects
 - *2020.10 - 2021.05*， [**Chuoyue**](https://github.com/fuyunwang/video_surveillance2021)，**独立完成**企业级通用PAAS平台基架。基于SpringCloud Hoxton + Spring Cloud Alibaba构建微服务架构基础,基于TypeScript + Vue3.0构建前端界面；构建ELK + Skywalking APM+ Prometheus + Grafana一体化监控平台；基于Jenkins + Docker + Kubernetes实现持续集成和持续部署
+- *2020.05 - 2020.08*， **山东兆物网络技术股份有限公司**，**研发工程师**，参与智慧社区平台的开发，维护社区内人员及车辆在不同场景的行为信息，以供相关部门调查取证。使用 Spring Cloud Zuul+Spring Security 实现基于 RBAC 权限模型的分布式授权中心；使用策略模式优化代码，实现对不同类型的数据进行相应的处理流程
 - *2020.01 - 2020.05*， **分布式任务调度平台**，**独立完成**基于Golang实现的分布式任务调度平台。基于master-worker架构实现，master接收任务调度请求并提供前端界面，worker进行多任务调度和任务并发执行；基于etcd实现服务注册与发现、任务存储，基于go channel完成任务分发；基于etcd实现分布式锁避免任务并发执行；采用mongodb存储任务调度产生的日志并提供前端可视化日志界面；搭建master节点集群，基于Nginx实现反向代理和负载均衡
 - *2019.06 - 2019.09*， [**RpcInfra**](https://github.com/fuyunwang/RpcInfra)，**独立完成**基于Netty实现高性能RPC框架。基于 Netty 实现长连接RPC，自定义协议封装并基于协议长度字段解决粘包拆包问题；基于 Zookeeper 实现分布式服务注册与发现，并基于一致性哈希算法实现负载均衡策略；客户端与服务端定期进行心跳检测和空闲连接管理；服务提供者采用 Reactor 线程模式，自定义线程池完成业务逻辑处理；项目采用模块化设计并使用 SpringBoot 提供的 SPI 机制动态加载
 - *2017.07 - 2018.06*， **校园班车预约平台\|教育应用**，针对山东师范大学校车进行预约，主要提供本部到长清校区班车场次查询、班车预约、支付、退款等功能。采用 Spring Security 实现网关统一认证与鉴权，缓解了认证授权服务因业务服务数量多带来请求压力问题；采用本地 Guava 缓存 + Redis 集中式缓存策略，缓存班车场次列表，使用 JMeter 进行压测，可以达到5000QPS；缓存更新需要获取基于 Redisson 的分布式锁，避免缓存击穿，此外，未获得锁的请求睡眠后重试，保证了系统响应速度，降低了内存

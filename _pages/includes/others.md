@@ -1,6 +1,6 @@
 
 # 💼 Projects
-- *2021.12 - 2022.05*， [**LeetCode 梳理**](https://github.com/fuyunwang/Algorithm-LC)，对LeetCode上 Hot100题系列、前1000题进行梳理，按照数据结构、DP、贪心等相关问题进行总结整理，持续进行中...
+- *2021.12 - 2022.05*， [**LeetCode 梳理**](https://github.com/fuyunwang/Algorithm-LC)，对LeetCode上 Hot100题系列、前1000题进行梳理，按照数据结构、DP、贪心等相关问题进行总结整理，并在[B站](https://www.bilibili.com/video/BV1ta411a7UK/?spm_id_from=333.999.0.0)、[掘金](https://juejin.cn/post/7093007060840742920)分享总结，持续进行中...
 - *2020.10 - 2021.05*， [**Chuoyue**](https://github.com/fuyunwang/video_surveillance2021)，**独立完成**企业级通用PAAS平台基架。基于SpringCloud Hoxton + Spring Cloud Alibaba构建微服务架构基础,基于TypeScript + [Vben](https://doc.vvbin.cn/)构建前端界面；构建ELK + Skywalking APM+ Prometheus + Grafana一体化监控平台；基于Jenkins + Docker + Kubernetes实现持续集成和持续部署
 - *2020.05 - 2020.08*， **山东兆物网络技术股份有限公司**，**研发工程师**，参与智慧社区平台的开发，维护社区内人员及车辆在不同场景的行为信息，以供相关部门调查取证。使用 Spring Cloud Zuul+Spring Security 实现基于 RBAC 权限模型的分布式授权中心；使用策略模式优化代码，实现对不同类型的数据进行相应的处理流程
 - *2020.01 - 2020.05*， **分布式任务调度平台**，**独立完成**基于Golang实现的分布式任务调度平台。基于master-worker架构实现，master接收任务调度请求并提供前端界面，worker进行多任务调度和任务并发执行；基于etcd实现服务注册与发现、任务存储，基于go channel完成任务分发；基于etcd实现分布式锁避免任务并发执行；采用mongodb存储任务调度产生的日志并提供前端可视化日志界面；搭建master节点集群，基于Nginx实现反向代理和负载均衡

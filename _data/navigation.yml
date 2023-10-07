@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Intro"
+    url: "/#-intro"
 
   - title: "News"
     url: "/#-news"
@@ -17,6 +17,15 @@ main:
 
   - title: "Projects"
     url: "/#-projects"
+
+  - title: "Student Cadre"
+    url: "/#-student-cadre"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Essay"
+    url: "/#-essay"
 
   - title: "Gallery"
     url: "/#-gallery"

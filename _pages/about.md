@@ -19,4 +19,6 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
+{% include_relative includes/writing.md %}
+
 {% include_relative includes/gallery.md %}

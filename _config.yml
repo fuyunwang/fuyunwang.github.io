@@ -27,9 +27,9 @@ author:
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=Jc19RCMAAAAJ&hl=en"
   email            : "fuyunwang2021@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://openreview.net/profile?id=~FuyunWang1"
   uri              : "https://juejin.cn/user/3913917123797735/posts"
   bitbucket        :
   codepen          :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.uni-trier.de/pid/326/5419.html"
   orcid            : # https://orcid.org/0000-0002-8684-0283  # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :

@@ -1,6 +1,8 @@
 
 # 📝 Publications 
-## Session-Based Recommendation
+## Anomaly Detection
+
+## Text-to-Image Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -9,7 +11,7 @@
 Jialin Luo, Yuanzhi Wang, Ziqi Gu, Yide Qiu, Shuaizhen Yao, **Fuyun Wang**, Chunyan Xu, Wenhua Zhang, Dan Wang, Zhen Cui
 </div></div>
 
-
+## Session-Based Recommendation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/CM-GNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

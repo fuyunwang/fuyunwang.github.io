@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## Session-Based Recommendation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/nips2024' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/nips2024' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation](https://anonymous.4open.science/r/MMM-RS-C73A/) \\

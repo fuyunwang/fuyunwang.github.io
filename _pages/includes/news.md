@@ -1,4 +1,5 @@
 # 🔥 News
+- 🎉 一篇文章被NIPS2024录用：MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
 - 🎉 一篇文章被TMM录用：Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation
 - 🎉 一篇文章被KBS录用：CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation
 - 🎉 一篇文章被Signal Processing录用：Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition

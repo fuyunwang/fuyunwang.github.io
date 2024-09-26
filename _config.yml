@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fuyunwang(王福运)"
-description              : "目前于南京理工大学PCALAB实验室VGG课题组攻读博士学位"
+title                    : "Fuyunwang"
+description              : "I am currently pursuing my PhD in the VGG group at PCALAB Laboratory, Nanjing University of Science and Technology."
 repository               : "fuyunwang/fuyunwang"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fuyunwang(王福运)"
+  name             : "Fuyunwang"
   avatar           : "images/gopher.jpg"
   bio              : "NJUST"
   location         : "Nanjing, China"

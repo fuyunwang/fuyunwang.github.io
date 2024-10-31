@@ -7,7 +7,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation](https://anonymous.4open.science/r/MMM-RS-C73A/) \\
+[MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2410.22362) \\
 Jialin Luo, Yuanzhi Wang, Ziqi Gu, Yide Qiu, Shuaizhen Yao, **Fuyun Wang**, Chunyan Xu, Wenhua Zhang, Dan Wang, Zhen Cui
 </div></div>
 

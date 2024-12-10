@@ -1,8 +1,6 @@
 
 # 📝 Publications 
-## Anomaly Detection
 
-## Text-to-Image Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -18,7 +16,6 @@ Scene Graph-Grounded Image Generation \\
 Jialin Luo, Yuanzhi Wang, Ziqi Gu, Yide Qiu, Shuaizhen Yao, **Fuyun Wang**, Chunyan Xu, Wenhua Zhang, Dan Wang, Zhen Cui
 </div></div>
 
-## Session-Based Recommendation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/CM-GNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,7 +33,6 @@ Jialin Luo, Yuanzhi Wang, Ziqi Gu, Yide Qiu, Shuaizhen Yao, **Fuyun Wang**, Chun
 **Fuyun Wang**, Xuequan Lu, Lei Lyu
 </div></div>
 
-## Skeleton-Based Action Recognition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

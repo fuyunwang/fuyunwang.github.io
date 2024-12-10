@@ -4,10 +4,10 @@
 
 ## Text-to-Image Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scene Graph-Grounded Image Generation] \\
+Scene Graph-Grounded Image Generation \\
 **Fuyun Wang**, Tong Zhang, Yuanzhi Wang, Xiaoya Zhang, Xin Liu, Zhen Cui 
 </div></div>
 

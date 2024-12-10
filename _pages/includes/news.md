@@ -1,4 +1,5 @@
 # 🔥 News
+- 🎉 一篇文章被CCF A类会议AAAI 2025录用：Scene Graph-Grounded Image Generation
 - 🎉 一篇文章被CCF A类会议NIPS 2024录用：MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
 - 🎉 一篇文章被SCI一区期刊TMM录用：Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation
 - 🎉 一篇文章被SCI一区期刊KBS录用：CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation

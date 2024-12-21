@@ -1,9 +1,10 @@
 # 🔥 News
-- 🎉 一篇文章被CCF A类会议AAAI 2025录用：Scene Graph-Grounded Image Generation
-- 🎉 一篇文章被CCF A类会议NIPS 2024录用：MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
-- 🎉 一篇文章被SCI一区期刊TMM录用：Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation
-- 🎉 一篇文章被SCI一区期刊KBS录用：CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation
-- 🎉 一篇文章被SCI二区期刊Signal Processing录用：Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition
+- 🎉🎉 一篇文章被CCF B类会议ICASSP 2025录用: M3Rec: Selective State Space Models with Mixture-of-Modality-Experts for Multi-Modal Sequential Recommendation
+- 🎉🎉 一篇文章被CCF A类会议AAAI 2025录用：Scene Graph-Grounded Image Generation
+- 🎉🎉 一篇文章被CCF A类会议NIPS 2024录用：MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
+- 🎉🎉 一篇文章被SCI一区期刊TMM录用：Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation
+- 🎉🎉 一篇文章被SCI一区期刊KBS录用：CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation
+- 🎉🎉 一篇文章被SCI二区期刊Signal Processing录用：Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition
 - 🔥 一项发明专利授权：一种基于注意力机制的高校选修课混合推荐方法及系统
 - 🔥 一项发明专利授权：一种基于知识图谱和强化学习的电影推荐方法及系统
 - 🔥 一项发明专利授权：基于空洞卷积和多尺度多分支的图像语义分割方法及系统

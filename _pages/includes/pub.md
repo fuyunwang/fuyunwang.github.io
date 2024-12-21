@@ -33,12 +33,12 @@ Jialin Luo, Yuanzhi Wang, Ziqi Gu, Yide Qiu, Shuaizhen Yao, **Fuyun Wang**, Chun
 **Fuyun Wang**, Xuequan Lu, Lei Lyu
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition](https://www.sciencedirect.com/science/article/abs/pii/S0165168422002535) \\
 Pei Geng, Haowei Li, **Fuyun Wang**, Lei Lyu
-</div></div>
+</div></div> -->
 
 [//]: # ()
 [//]: # (<!-- - ``INTERSPEECH 2021`` <span style="color:red">&#40;best student paper award candidate&#41;</span> [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution]&#40;https://arxiv.org/abs/2106.08507&#41;, Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao -->)

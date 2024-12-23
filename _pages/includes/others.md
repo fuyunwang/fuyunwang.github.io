@@ -104,12 +104,12 @@
 
 
 # 🧑‍ Student Cadre
-- *2023.09 - *, Student at the School of Computer Science and Engineering, Nanjing University of Science and Technology
+- *2023.09* - , Student at the School of Computer Science and Engineering, Nanjing University of Science and Technology
 - *2020.09 - 2023.06*, Class President of the 2020 Software Engineering Class, School of Information Science and Engineering, Shandong Normal University
 
 
 # 📖 Educations
-- *2023.09 - *, Nanjing University of Science and Technology
+- *2023.09* - , Nanjing University of Science and Technology
 - *2020.09 - 2023.06*, Shandong Normal University
 - *2015.09 - 2019.06*, Shandong Normal University
 

@@ -1,13 +1,13 @@
 # 🔥 News
-- 🎉🎉 一篇文章被CCF B类会议ICASSP 2025录用: M3Rec: Selective State Space Models with Mixture-of-Modality-Experts for Multi-Modal Sequential Recommendation
-- 🎉🎉 一篇文章被CCF A类会议AAAI 2025录用：Scene Graph-Grounded Image Generation
-- 🎉🎉 一篇文章被CCF A类会议NIPS 2024录用：MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
-- 🎉🎉 一篇文章被SCI一区期刊TMM录用：Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation
-- 🎉🎉 一篇文章被SCI一区期刊KBS录用：CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation
-- 🎉🎉 一篇文章被SCI二区期刊Signal Processing录用：Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition
-- 🔥 一项发明专利授权：一种基于注意力机制的高校选修课混合推荐方法及系统
-- 🔥 一项发明专利授权：一种基于知识图谱和强化学习的电影推荐方法及系统
-- 🔥 一项发明专利授权：基于空洞卷积和多尺度多分支的图像语义分割方法及系统
-- 🔥 申请一项软件著作权：wide_deep模型的音乐推荐系统
-- 🔥 申请一项软件著作权：基于机器视觉的智能检测告警平台
-- 🔥 申请一项软件著作权：多语言分布式爬虫任务调度平台
+- 🎉🎉 One paper accepted at CCF-B conference ICASSP 2025, M3Rec: Selective State Space Models with Mixture-of-Modality-Experts for Multi-Modal Sequential Recommendation
+- 🎉🎉 One paper accepted at CCF-A conference AAAI 2025, Scene Graph-Grounded Image Generation
+- 🎉🎉 One paper accepted at CCF-A conference NeurIPS 2024, MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
+- 🎉🎉 One paper accepted by TMM, Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation
+- 🎉🎉 One paper accepted by KBS, CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation
+- 🎉🎉 One paper accepted by Signal Processing, Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition
+- 🔥 Invention Patent: A Hybrid Recommendation Method and System for University Elective Courses Based on Attention Mechanism
+- 🔥 Invention Patent: A Movie Recommendation Method and System Based on Knowledge Graph and Reinforcement Learning
+- 🔥 Invention Patent: An Image Semantic Segmentation Method and System Based on Dilated Convolution and Multi-Scale Multi-Branch Architecture
+- 🔥 Software Copyright: Music Recommendation System Using the Wide & Deep Model
+- 🔥 Software Copyright: Intelligent Detection and Alert Platform Based on Machine Vision
+- 🔥 Software Copyright: Multilingual Distributed Web Crawler Task Scheduling Platform

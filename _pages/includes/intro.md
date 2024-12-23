@@ -5,6 +5,5 @@
 </div>
 
 # 💼 About Me
-前全栈开发工程师（包括但不限于Android/Vue/Flutter/Spring/Golang/Devops/Cloud Native），现211在读博士，研究方向为**Generative Model、MultiModal、Anomaly Detection、AIGC**
-
+Former full-stack developer (proficient in Android, Vue, Flutter, Spring, Golang, DevOps, Cloud Native, and more), currently pursuing a Ph.D.   Research interests include **Generative Models, Multimodal Learning, Anomaly Detection, and AI-Generated Content (AIGC)**.
 

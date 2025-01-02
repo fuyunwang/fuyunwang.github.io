@@ -86,17 +86,23 @@
 
     Key technical highlights:
   
-    1. Unified Authentication and Authorization: Implemented via Spring Security at the gateway level, alleviating request pressure caused by numerous business services.
-    2. Efficient Caching: Adopted a hybrid caching strategy using local Guava cache combined with centralized Redis, caching shuttle schedule lists. Load testing with JMeter achieved a throughput of 5000 QPS.
-    Used Redisson-based distributed locks to ensure cache consistency and avoid cache stampede. Requests failing to acquire locks are put to sleep and retried, ensuring system responsiveness and reduced memory consumption.
-    Cached null values for non-existent schedules to prevent cache penetration. Idempotency: Achieved via Redis cache expiration strategy based on request parameters.
-    3. Asynchronous Reservation: Leveraged RabbitMQ for asynchronous order placement, with the consumer side ensuring deduplication based on order numbers to prevent repeated message consumption.
-    4. Distributed Rate Limiting:
-    Used Sentinel for global rate limiting across distributed services.
-    Applied Guava's RateLimiter for local rate limiting using the token bucket algorithm.
-    Unique ID Generation: Snowflake algorithm ensured unique, conflict-free order IDs.
-    5. Database Optimization:
-    Achieved read-write separation through MySQL master-slave replication, improving data access efficiency.
+    1. **Unified Authentication and Authorization**:
+       - Implemented via Spring Security at the gateway level, alleviating request pressure caused by numerous business services.
+    2. **Efficient Caching**:
+       - Adopted a hybrid caching strategy using local Guava cache combined with centralized Redis, caching shuttle schedule lists.
+       - Load testing with JMeter achieved a throughput of 5000 QPS.
+       - Used Redisson-based distributed locks to ensure cache consistency and avoid cache stampede.
+       - Requests failing to acquire locks are put to sleep and retried, ensuring system responsiveness and reduced memory consumption.
+       - Cached null values for non-existent schedules to prevent cache penetration.
+       - Idempotency: Achieved via Redis cache expiration strategy based on request parameters.
+    4. **Asynchronous Reservation**:
+       - Leveraged RabbitMQ for asynchronous order placement, with the consumer side ensuring deduplication based on order numbers to prevent repeated message consumption.
+    6. **Distributed Rate Limiting**:
+       - Used Sentinel for global rate limiting across distributed services.
+       - Applied Guava's RateLimiter for local rate limiting using the token bucket algorithm.
+       - Unique ID Generation: Snowflake algorithm ensured unique, conflict-free order IDs.
+    8. **Database Optimization**:
+       - Achieved read-write separation through MySQL master-slave replication, improving data access efficiency.
   
 
 - *2016.04 - 2017.02*， **Smart SDNU \| Educational Application**, A school research team project providing services such as weather updates, campus card services, library reservations, and Shanshi data insights. Served as the Android lead, responsible for the design and development of the Android app.

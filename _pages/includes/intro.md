@@ -5,5 +5,5 @@
 </div>
 
 # 💼 About Me
-Former full-stack developer (proficient in Android, Vue, Flutter, Spring, Golang, DevOps, Cloud Native, and more), currently pursuing a Ph.D.   Research interests include **Generative Models, Multimodal Learning, Anomaly Detection, and AI-Generated Content (AIGC)**.
+Former full-stack developer (proficient in Android, Vue, Flutter, Spring, Golang, DevOps, Cloud Native, and more), currently pursuing a Ph.D. Research interests include **Generative Modeling, AIGC, Anomaly Detection, and Recommendation System**.
 

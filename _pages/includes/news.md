@@ -1,4 +1,5 @@
 # 🔥 News
+- 🎉🎉 One paper accepted at CCF-A conference CVPR 2025, Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection
 - 🎉🎉 One paper accepted at CCF-B conference ICASSP 2025, M3Rec: Selective State Space Models with Mixture-of-Modality-Experts for Multi-Modal Sequential Recommendation
 - 🎉🎉 One paper accepted at CCF-A conference AAAI 2025, Scene Graph-Grounded Image Generation
 - 🎉🎉 One paper accepted at CCF-A conference NeurIPS 2024, MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation

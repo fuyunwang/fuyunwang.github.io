@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Scene Graph-Grounded Image Generation \\
+Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection \\
 **Fuyun Wang**, Tong Zhang, Yuanzhi Wang, Yide Qiu, Xin Liu, Xu Guo, Zhen Cui 
 </div></div>
 

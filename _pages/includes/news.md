@@ -1,14 +1,15 @@
 # 🔥 News
 - 🎉🎉 One paper accepted at CCF-A conference CVPR 2025, Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection
 - 🎉🎉 One paper accepted at CCF-B conference ICASSP 2025, M3Rec: Selective State Space Models with Mixture-of-Modality-Experts for Multi-Modal Sequential Recommendation
+- 🔥🔥  Invited talk at [VALSE Webinar](https://mp.weixin.qq.com/s/HXK1jlOgJ1zMQiq3NzX7AA)!
 - 🎉🎉 One paper accepted at CCF-A conference AAAI 2025, Scene Graph-Grounded Image Generation
 - 🎉🎉 One paper accepted at CCF-A conference NeurIPS 2024, MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
 - 🎉🎉 One paper accepted by TMM, Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation
 - 🎉🎉 One paper accepted by KBS, CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation
 - 🎉🎉 One paper accepted by Signal Processing, Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition
-- 🔥 Invention Patent: A Hybrid Recommendation Method and System for University Elective Courses Based on Attention Mechanism
-- 🔥 Invention Patent: A Movie Recommendation Method and System Based on Knowledge Graph and Reinforcement Learning
-- 🔥 Invention Patent: An Image Semantic Segmentation Method and System Based on Dilated Convolution and Multi-Scale Multi-Branch Architecture
-- 🔥 Software Copyright: Music Recommendation System Using the Wide & Deep Model
-- 🔥 Software Copyright: Intelligent Detection and Alert Platform Based on Machine Vision
-- 🔥 Software Copyright: Multilingual Distributed Web Crawler Task Scheduling Platform
+- 🔥🔥 Invention Patent: A Hybrid Recommendation Method and System for University Elective Courses Based on Attention Mechanism
+- 🔥🔥 Invention Patent: A Movie Recommendation Method and System Based on Knowledge Graph and Reinforcement Learning
+- 🔥🔥 Invention Patent: An Image Semantic Segmentation Method and System Based on Dilated Convolution and Multi-Scale Multi-Branch Architecture
+- 🔥🔥 Software Copyright: Music Recommendation System Using the Wide & Deep Model
+- 🔥🔥 Software Copyright: Intelligent Detection and Alert Platform Based on Machine Vision
+- 🔥🔥 Software Copyright: Multilingual Distributed Web Crawler Task Scheduling Platform

@@ -1,4 +1,5 @@
 # 🔥 News
+- 🎉🎉 One paper accepted at CCF-C conference PRCV, MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model
 - 🎉🎉 One paper accepted at CCF-B journal TOMM, MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation
 - 🔥🔥 Invited talk at [CSIG](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg)!
 - 🎉🎉 One paper accepted at CCF-A conference CVPR 2025, Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection

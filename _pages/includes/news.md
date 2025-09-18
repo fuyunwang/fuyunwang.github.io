@@ -1,5 +1,5 @@
 # 🔥 News
-- 🎉🎉 One paper accepted at CCF-A conference NeurIPS, Value Diffusion Reinforcement Learning
+- 🎉🎉 One paper accepted at CCF-A conference NeurIPS 2025, Value Diffusion Reinforcement Learning
 - 🎉🎉 One paper accepted at CCF-C conference PRCV, MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model
 - 🎉🎉 One paper accepted at CCF-B journal TOMM, MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation
 - 🔥🔥 Invited talk at [CSIG](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg)!

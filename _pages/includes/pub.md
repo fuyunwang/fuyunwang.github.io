@@ -3,7 +3,7 @@
 <div><div class="badge">ICML 2026</div><img src='images/MPFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection \\
+Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection <br>
 **Fuyun Wang**,   Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Hui Yan, <br> Xin Liu, Zhen Cui.
 
 </div></div>
@@ -13,7 +13,7 @@ Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection \\
 <div class="badge">ICML 2026</div><img src='images/APO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Anomaly-Preference Image Generation \\
+Anomaly-Preference Image Generation <br>
 **Fuyun Wang**,   Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, <br> Hui Yan,  Xin Liu, Zhen Cui.
 
 </div></div>
@@ -23,7 +23,7 @@ Anomaly-Preference Image Generation \\
 <div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection](https://arxiv.org/pdf/2502.20981) \\
+[Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection](https://arxiv.org/pdf/2502.20981) <br>
 **Fuyun Wang**, Tong Zhang, Yuanzhi Wang, Yide Qiu, Xin Liu, Xu Guo, Zhen Cui 
 </div></div>
 
@@ -32,21 +32,21 @@ Anomaly-Preference Image Generation \\
 <div class="badge">AAAI 2025</div><img src='images/AAAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scene Graph-Grounded Image Generation](https://doi.org/10.1609/aaai.v39i7.32823) \\
+[Scene Graph-Grounded Image Generation](https://doi.org/10.1609/aaai.v39i7.32823) <br>
 **Fuyun Wang**, Tong Zhang, Yuanzhi Wang, Xiaoya Zhang, Xin Liu, Zhen Cui 
 </div></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2410.22362) \\
+[MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2410.22362) <br>
 Jialin Luo, Yuanzhi Wang, Ziqi Gu, Yide Qiu, Shuaizhen Yao, **Fuyun Wang**, Chunyan Xu, Wenhua Zhang, Dan Wang, Zhen Cui
 </div></div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/CM-GNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation](https://ieeexplore.ieee.org/document/10054473) \\
+[Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation](https://ieeexplore.ieee.org/document/10054473) <br>
 **Fuyun Wang**, Xingyu Gao, Zhenyu Chen, Lei Lyu
 </div></div>
 <!-- - 提出了一种新的多层对比图神经网络(CM-GNN)，该网络可以对所有会话中复杂高阶的项目转换模式进行建模
@@ -56,14 +56,14 @@ Jialin Luo, Yuanzhi Wang, Ziqi Gu, Yide Qiu, Shuaizhen Yao, **Fuyun Wang**, Chun
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/CGSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122006438) \\
+[CGSNet: Contrastive Graph Self-Attention Network for Session-based Recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122006438) <br>
 **Fuyun Wang**, Xuequan Lu, Lei Lyu
 </div></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition](https://www.sciencedirect.com/science/article/abs/pii/S0165168422002535) \\
+[Adaptive multi-level graph convolution with contrastive learning for skeleton-based action recognition](https://www.sciencedirect.com/science/article/abs/pii/S0165168422002535) <br>
 Pei Geng, Haowei Li, **Fuyun Wang**, Lei Lyu
 </div></div> -->
 

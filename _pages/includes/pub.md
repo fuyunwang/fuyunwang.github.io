@@ -11,6 +11,7 @@ Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection \\
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">ICML 2026</div><img src='images/APO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 Anomaly-Preference Image Generation \\
 **Fuyun Wang**, et al.
 </div></div>

@@ -16,8 +16,7 @@ Anomaly-Preference Image Generation \\
 **Fuyun Wang**, Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Xin Liu, Hui Yan, Zhen Cui
 </div></div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div> -->
-
+<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

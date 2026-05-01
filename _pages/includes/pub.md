@@ -4,7 +4,9 @@
 <div class='paper-box-text' markdown="1">
 
 Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection \\
+
 **Fuyun Wang**,   Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Hui Yan, \\ Xin Liu, Zhen Cui.
+
 </div></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div> -->
@@ -13,7 +15,9 @@ Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection \\
 <div class='paper-box-text' markdown="1">
   
 Anomaly-Preference Image Generation \\
+
 **Fuyun Wang**,   Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, \\ Hui Yan,  Xin Liu, Zhen Cui.
+
 </div></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'> -->

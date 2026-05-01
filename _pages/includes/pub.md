@@ -1,18 +1,18 @@
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">ICML 2026</div><img src='images/MPFM.png' alt="sym" width="80%"></div></div>
+<div><div class="badge">ICML 2026</div><img src='images/MPFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection \\
-**Fuyun Wang**, Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Xin Liu, Hui Yan, Zhen Cui
+**Fuyun Wang**, et al.
 </div></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div> -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">ICML 2026</div><img src='images/APO.png' alt="sym" width="80%"></div></div>
+<div class="badge">ICML 2026</div><img src='images/APO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Anomaly-Preference Image Generation \\
-**Fuyun Wang**, Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Xin Liu, Hui Yan, Zhen Cui
+**Fuyun Wang**, et al.
 </div></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'> -->

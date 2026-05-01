@@ -1,5 +1,5 @@
 # 🔥 News
-- 🎉🎉 Two paper accepted at CCF-A conference ICML 2026, Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection, Anomaly-Preference Image Generation
+- 🎉🎉 Two papers accepted at CCF-A conference ICML 2026, Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection, Anomaly-Preference Image Generation
 - 🎉🎉 One paper accepted at Nature Machine Intelligence, Visual-like Template Diffusion: Boosting Single-Sequence Protein Structure Prediction by Adapting Image Diffusion Models
 - 🎉🎉 One paper accepted at CCF-A conference NeurIPS 2025, Value Diffusion Reinforcement Learning
 - 🎉🎉 One paper accepted at CCF-C conference PRCV, MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model

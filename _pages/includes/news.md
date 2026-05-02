@@ -1,6 +1,6 @@
 # 🔥 News
 - 🎉🎉 Two papers accepted at CCF-A conference ICML 2026, Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection, Anomaly-Preference Image Generation
-- 🎉🎉 One paper accepted at Nature Machine Intelligence, Visual-like Template Diffusion: Boosting Single-Sequence Protein Structure Prediction by Adapting Image Diffusion Models
+- 🎉🎉 One paper accepted at Nature Machine Intelligence (Nature 子刊), Visual-like Template Diffusion: Boosting Single-Sequence Protein Structure Prediction by Adapting Image Diffusion Models
 - 🎉🎉 One paper accepted at CCF-A conference NeurIPS 2025, Value Diffusion Reinforcement Learning
 - 🎉🎉 One paper accepted at TOMM, MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation
 - 🔥🔥 Invited talk at [CSIG](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg)!

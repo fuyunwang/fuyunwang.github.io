@@ -3,7 +3,7 @@
 <div><div class="badge">ICML 2026</div><img src='images/MPFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection <br>
+[Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection](https://arxiv.org/pdf/2605.02438) <br>
 **Fuyun Wang**,   Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Hui Yan, <br> Xin Liu, Zhen Cui.
 
 </div></div>
@@ -13,7 +13,7 @@ Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection <br>
 <div class="badge">ICML 2026</div><img src='images/APO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Anomaly-Preference Image Generation <br>
+[Anomaly-Preference Image Generation](https://arxiv.org/pdf/2605.02439) <br>
 **Fuyun Wang**,   Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, <br> Hui Yan,  Xin Liu, Zhen Cui.
 
 </div></div>
